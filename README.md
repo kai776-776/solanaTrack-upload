@@ -20,7 +20,7 @@ Users can later access their track using the public key of the track.
 - Check your keypair and its location using `solana config get keypair`
 - `export ANCHOR_PROVIDER_URL="http://localhost:8899"`
 - `export ANCHOR_WALLET=~/.config/solana/id.json`
-Once you have the project deployed and the environment variables set you can interact with it using the CLI.
+Once you have the project deployed and the environment variables set you can interact with it using the CLI.  
 
 ## CLI
 I have added the CLI scripts to the scripts section in `package.json` making it more convenient to run.
